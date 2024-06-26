@@ -39,13 +39,12 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upgrad
+- References if any EDA Module by upgrad
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Rohit272017] & [@bsdeepthi]- feel free to contact me!
 
 
 <!-- Optional -->
